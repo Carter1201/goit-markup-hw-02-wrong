@@ -43,7 +43,9 @@ ul,ol {
     color:#404BBF;
     text-decoration: underline 4px #404BBF;    
 }
-
+address {
+    font-style: normal;
+}
 .address-link {
     color: #434455;
     font-style: normal;
@@ -134,7 +136,7 @@ display: none;
 
 /* Footer */
 
-footer {
+.footer {
     background-color: #2E2F42;
 }
 .logo-footer {
@@ -145,6 +147,3 @@ footer {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
-
-
